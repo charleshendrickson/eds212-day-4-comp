@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Creating matrices in R 
+## Creating matrices in R! 
 
 Use the matrix function to wrap a series of values (a vector) into a matrix. 
 
