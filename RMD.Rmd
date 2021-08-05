@@ -1,0 +1,59 @@
+---
+title: "My RMD"
+subtitle: "Some changes in YAML" 
+author: "Charles Hendrickson"
+output: 
+  html_document:
+    theme: yeti
+    toc: TRUE
+    toc_float: TRUE
+    number_sections: TRUE
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Getting Started 
+
+## My first chapter 
+
+### Preface 
+
+# Bassets RULE!
+
+```{r}
+a <- 2
+b <- 12
+
+```
+
+
+
+#My second chapter 
+
+## Why bassets rule 
+
+
+```{r}
+c <- 3
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
